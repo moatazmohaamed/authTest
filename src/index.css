@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+.active {
+    background-color: #f0f0f0;
+    color: #333;
+}
